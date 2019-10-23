@@ -6,7 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
-/* This is my utilities class. It stores functions responsible for
+/* Class stores functions responsible for
  * reading/writing data from files, finding/replacing values, and
  * displaying relevant information.
  */
